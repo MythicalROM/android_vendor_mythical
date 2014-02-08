@@ -39,7 +39,7 @@ endif
 
 # Extra properties
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.pa.device=$(DEVICE)
+    ro.mythical.device=$(DEVICE)
 
 # Allow override of system DUN
 # 2 = not set, 0 = DUN not required, 1 = DUN required

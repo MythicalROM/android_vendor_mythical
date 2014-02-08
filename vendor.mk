@@ -1,8 +1,8 @@
 # Export rom name
-export VENDOR := pa
+export VENDOR := mythical
 
 # Version info
-ROM_VERSION_MAJOR := 4
-ROM_VERSION_MINOR := 0
+ROM_VERSION_MAJOR := pegasus
+ROM_VERSION_MINOR := 
 ROM_VERSION_MAINTENANCE := 
-ROM_VERSION_TAG := BETA4
+ROM_VERSION_TAG := 
