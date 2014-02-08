@@ -17,7 +17,7 @@
 include vendor/mythical/vendor.mk
 include vendor/mythical/configs/aosp_fixes.mk
 include vendor/mythical/configs/system.mk
-include vendor/mythical/configs/pa_overrides.mk
+include vendor/mythical/configs/mythical_overrides.mk
 include vendor/mythical/configs/bootanimation.mk
 include vendor/mythical/configs/version.mk
 
