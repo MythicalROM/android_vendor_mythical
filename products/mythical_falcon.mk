@@ -33,7 +33,7 @@ $(call inherit-product, device/motorola/falcon/full_falcon.mk)
 # Override AOSP build properties
 PRODUCT_NAME := mythical_falcon
 PRODUCT_BRAND := Motorola
-PRODUCT_MODEL := Motorola
+PRODUCT_MODEL := Moto G
 
 endif
 
