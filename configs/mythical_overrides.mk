@@ -32,10 +32,10 @@ PRODUCT_PACKAGES += \
 #endif
 
 # Include ParanoidOTA
-ifneq ($(NO_OTA_BUILD),true)
-    PRODUCT_PACKAGES += \
-        ParanoidOTA
-endif
+#ifneq ($(NO_OTA_BUILD),true)
+#    PRODUCT_PACKAGES += \
+#        ParanoidOTA
+#endif
 
 # Extra properties
 PRODUCT_PROPERTY_OVERRIDES += \
