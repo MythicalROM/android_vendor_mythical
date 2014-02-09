@@ -17,6 +17,10 @@ PRODUCT_PACKAGES += \
     Busybox \
     Lightbulb
 
+# Mythical packages
+PRODUCT_PACKAGES += \
+    MythicalLightning
+
 # Extra packages
 PRODUCT_PACKAGES += \
     BluetoothExt
