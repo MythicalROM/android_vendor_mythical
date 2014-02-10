@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Version 2.0.4, Adapted for AOSPA.
+# Version 2.0.4, Adapted for Mythical.
 
 # We don't allow scrollback buffer
 echo -e '\0033\0143'
