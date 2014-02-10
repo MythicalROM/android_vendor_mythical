@@ -19,7 +19,8 @@ PRODUCT_PACKAGES += \
 
 # Mythical packages
 PRODUCT_PACKAGES += \
-    MythicalLightning
+    MythicalLightning \
+    Apollo
 
 # Extra packages
 PRODUCT_PACKAGES += \
