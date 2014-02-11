@@ -1,2 +1,3 @@
-add_lunch_combo mythical_n7000-userdebug
+add_lunch_combo mythical_i9100-userdebug
 add_lunch_combo mythical_falcon-userdebug
+add_lunch_combo mythical_n7000-userdebug

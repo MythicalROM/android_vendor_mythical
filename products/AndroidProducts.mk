@@ -15,6 +15,9 @@
 ifeq (mythical_falcon,$(TARGET_PRODUCT))
     PRODUCT_MAKEFILES += $(LOCAL_DIR)/mythical_falcon.mk
 endif
+ifeq (mythical_i9100,$(TARGET_PRODUCT))
+    PRODUCT_MAKEFILES += $(LOCAL_DIR)/mythical_i9100.mk
+endif
 ifeq (mythical_n7000,$(TARGET_PRODUCT))
     PRODUCT_MAKEFILES += $(LOCAL_DIR)/mythical_n7000.mk
 endif
