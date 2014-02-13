@@ -21,4 +21,7 @@ endif
 ifeq (mythical_n7000,$(TARGET_PRODUCT))
     PRODUCT_MAKEFILES += $(LOCAL_DIR)/mythical_n7000.mk
 endif
+ifeq (mythical_yuga,$(TARGET_PRODUCT))
+    PRODUCT_MAKEFILES += $(LOCAL_DIR)/mythical_yuga.mk
+endif
 

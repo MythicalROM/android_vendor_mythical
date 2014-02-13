@@ -17,7 +17,7 @@
 
 
 # Mythical XXHDPI Devices
-ifneq ($(filter ,$(TARGET_PRODUCT)),)
+ifneq ($(filter mythical_yuga,$(TARGET_PRODUCT)),)
     PRODUCT_COPY_FILES += \
         vendor/mythical/prebuilt/bootanimation/1920x1080.zip:system/media/bootanimation.zip
 endif
