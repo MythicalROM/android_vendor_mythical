@@ -26,6 +26,11 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     BluetoothExt
 
+# Screen Recorder
+PRODUCT_PACKAGES += \
+    ScreenRecorder \
+    libscreenrecorder
+
 # Extra properties
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.mythical.device=$(DEVICE)
